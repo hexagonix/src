@@ -34,3 +34,6 @@
 [submodule "Dist/man"]
 	path = Dist/man
 	url = https://github.com/hexagonix/man
+[submodule "hexagonix"]
+	path = hexagonix
+	url = https://github.com/hexagonix/hexagonix
