@@ -1,0 +1,36 @@
+[submodule "Hexagon"]
+	path = Hexagon
+	url = https://github.com/hexagonix/Hexagon
+[submodule "Apps/Unix"]
+	path = Apps/Unix
+	url = https://github.com/hexagonix/Unix-Apps
+[submodule "Apps/Andromeda"]
+	path = Apps/Andromeda
+	url = https://github.com/hexagonix/Andromeda-Apps
+[submodule "Boot/Saturno"]
+	path = Boot/Saturno
+	url = https://github.com/hexagonix/Saturno
+[submodule "Boot/Hexagon Boot"]
+	path = Boot/Hexagon Boot
+	url = https://github.com/hexagonix/HBoot
+[submodule "Scripts"]
+	path = Scripts
+	url = https://github.com/hexagonix/scriptsHX
+[submodule "lib"]
+	path = lib
+	url = https://github.com/hexagonix/lib
+[submodule "Doc"]
+	path = Doc
+	url = https://github.com/hexagonix/Doc
+[submodule "Externos/fasmX"]
+	path = Externos/fasmX
+	url = https://github.com/hexagonix/fasmx
+[submodule "Fontes"]
+	path = Fontes
+	url = https://github.com/hexagonix/xfnt
+[submodule "Dist/etc"]
+	path = Dist/etc
+	url = https://github.com/hexagonix/etc
+[submodule "Dist/man"]
+	path = Dist/man
+	url = https://github.com/hexagonix/man
