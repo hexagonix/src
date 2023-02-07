@@ -4,14 +4,14 @@
 
 <div align="center">
 
-![](https://img.shields.io/github/license/hexagonix/Doc.svg)
-![](https://img.shields.io/github/stars/hexagonix/Doc.svg)
-![](https://img.shields.io/github/issues/hexagonix/Doc.svg)
-![](https://img.shields.io/github/issues-closed/hexagonix/Doc.svg)
-![](https://img.shields.io/github/issues-pr/hexagonix/Doc.svg)
-![](https://img.shields.io/github/issues-pr-closed/hexagonix/Doc.svg)
-![](https://img.shields.io/github/downloads/hexagonix/Doc/total.svg)
-![](https://img.shields.io/github/release/hexagonix/Doc.svg)
+![](https://img.shields.io/github/license/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/stars/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/issues/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/issues-closed/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/issues-pr/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/issues-pr-closed/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/downloads/hexagonix/hexagonix/total.svg)
+![](https://img.shields.io/github/release/hexagonix/hexagonix.svg)
 [![](https://img.shields.io/twitter/follow/hexagonixOS.svg?style=social&label=Follow%20%40HexagonixOS)](https://twitter.com/hexagonixOS)
 
 </div>
