@@ -21,6 +21,19 @@
 
 <!-- Vai funcionar como <hr> -->
 
+<img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
+
+<table align="center">
+<tr>
+<td><a href="https://github.com/hexagonix/src#uk-instructions-for-cloning-this-repository">:uk: English</a></td>
+<td><a href="https://github.com/hexagonix/src#brazil-instru%C3%A7%C3%B5es-para-clonar-este-reposit%C3%B3rio">:brazil: Português</a></td>
+</tr>
+</table>
+
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
+
 ## :uk: Instructions for cloning this repository
 
 <table align="center">
