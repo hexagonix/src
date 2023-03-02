@@ -40,17 +40,42 @@ cd ..
 chmod +x hx configure.sh
 ```
 
-Afterwards, use the `hx` tool to build and run the system. For more information on using hx, use:
+> It is worth remembering that you can perform this step more quickly using the script present in the [build](https://github.com/hexagonix/build) repository. You can use this script using, in the terminal:
+
+```
+git clone https://github.com/hexagonix/build
+cd build
+chmod+x hexagonix.sh
+./hexagonix.sh
+```
+
+After cloning (directly or using the `hexagonix.sh` script), use the `hx` tool to build and run the system. For more information on using hx, use:
 
 ```
 ./hx -h
+```
+
+To build Hexagonix, use:
+
+```
+sudo ./configure.sh
+sudo hx -i
+```
+
+To run Hexagonix in a virtualized environment, use:
+
+```
+hx -v
 ```
 
 To keep the repository up to date with the latest updates, use:
 
 ```
 git submodule update --remote
+git pull
 ```
+
+
 
 </div>
 
@@ -73,16 +98,39 @@ cd ..
 chmod +x hx configure.sh
 ```
 
-Após, utilize a ferramenta `hx` para construir e executar o sistema. Para mais informações sobre o uso do hx, utilize:
+> Vale lembrar que você pode realizar essa etapa de forma mais rápida utilizando o script presente no repositório [build](https://github.com/hexagonix/build). Você pode utilizar esse script utilizando, no terminal:
+
+```
+git clone https://github.com/hexagonix/build
+cd build
+chmod+x hexagonix.sh
+./hexagonix.sh
+```
+
+Após a clonagem (de forma direta ou utilizando o script `hexagonix.sh`), utilize a ferramenta `hx` para construir e executar o sistema. Para mais informações sobre o uso do hx, utilize:
 
 ```
 ./hx -h
+```
+
+Para construir o Hexagonix, use:
+
+```
+sudo ./configure.sh
+sudo hx -i
+```
+
+Para executar o Hexagonix em ambiente virtualizado, use:
+
+```
+hx -v
 ```
 
 Para manter o repositório atualizado com as atualizações mais recentes, use:
 
 ```
 git submodule update --remote
+git pull
 ```
 
 </div>
