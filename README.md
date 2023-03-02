@@ -23,6 +23,16 @@
 
 ## :uk: Instructions for cloning this repository
 
+<table align="center">
+<tr>
+<td><a href="https://github.com/hexagonix/Doc">Documentation</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md#-screenshots">Screenshots</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md#contribuir-e-reportar-erros">Contribute</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md#contribute-and-report-bugs">More information</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md">Download</a></td>
+</tr>
+</table>
+
 <div align="justify">
 
 This repository groups in a single structure all component repositories needed to build Hexagonix locally. You can clone each one of them individually, but when using this repository, all the files will be in the place expected by the tools to build and run in a virtualized environment.
@@ -75,11 +85,19 @@ git submodule update --remote
 git pull
 ```
 
-
-
 </div>
 
 ## :brazil: Instruções para clonar este repositório
+
+<table align="center">
+<tr>
+<td><a href="https://github.com/hexagonix/Doc">Documentação</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md#-capturas-de-tela">Screenshots</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md#contribuir-e-reportar-erros">Contribuir</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md#outras-informa%C3%A7%C3%B5es">Outras informações</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md">Download</a></td>
+</tr>
+</table>
 
 <div align="justify">
 
