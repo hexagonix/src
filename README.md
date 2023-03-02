@@ -41,10 +41,10 @@ To locally clone this repository, use, in your repository of interest:
 
 ```
 git clone https://github.com/hexagonix/src Hexagonix/
-hexagonix cd
+cd Hexagonix
 git submodule init
 git submodule update
-cd scripts
+cd Scripts
 cp hx configure.sh ../
 cd ..
 chmod +x hx configure.sh
