@@ -23,6 +23,12 @@
 
 <img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
 
+<div align="center">
+
+# Select the language - Selecione o idioma
+
+</div>
+
 <table align="center">
 <tr>
 <td><a href="https://github.com/hexagonix/src#uk-instructions-for-cloning-this-repository">:uk: English</a></td>
@@ -34,7 +40,7 @@
 
 <img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
 
-## :uk: Instructions for cloning this repository
+# :uk: Instructions for cloning this repository
 
 <table align="center">
 <tr>
@@ -104,7 +110,7 @@ git pull
 
 <img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
 
-## :brazil: Instruções para clonar este repositório
+# :brazil: Instruções para clonar este repositório
 
 <table align="center">
 <tr>
