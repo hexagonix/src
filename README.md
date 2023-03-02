@@ -21,112 +21,68 @@
 
 <!-- Vai funcionar como <hr> -->
 
-<img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
-
-<details title="Sobre o Hexagonix/About Hexagonix" align='left'>
-<br>
-<summary align='left'>❤ Sobre o Hexagonix/About Hexagonix</summary>
-
-* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md)
-* :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md) 
-
-</details>
-
-<details title="Obter o Hexagonix/Get Hexagonix" align='left'>
-<br>
-<summary align='left'>📀 Obter o Hexagonix/Get Hexagonix</summary>
-
-* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md)
-* :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.en.md) 
-
-</details>
-
-<details title="Documentação/documentation" align='left'>
-<br>
-<summary align='left'>📚 Documentação/documentation</summary>
-
-* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc)
-* :uk: [English](https://github.com/hexagonix/Doc)
-
-</details>
-
-<details title="Construir o sistema/build the system" align='left'>
-<br>
-<summary align='left'>🛠 Construir o sistema/build the system</summary>
-
-* :brazil: [Português (Brasil)](https://github.com/hexagonix/build/blob/main/README.pt.md)
-* :uk: [English](https://github.com/hexagonix/build/blob/main/README.en.md)
-
-</details>
-
-<details title="Lançamentos/releases" align='left'>
-<br>
-<summary align='left'>🗂 Lançamentos/releases</summary>
-
-* :brazil: [Português (Brasil)](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.pt.md)
-* :uk: [English](https://github.com/hexagonix/Doc/blob/main/Hexagonix/REL.en.md) 
-
-</details>
-
-<details title="Licença/License" align='left'>
-<br>
-<summary align='left'>📝 Licença/License</summary>
+# :uk: Instructions for cloning this directory to your device
 
 <div align="justify">
 
-Hexagonix Operating System
+This repository groups in a single structure all component repositories needed to build Hexagonix locally. You can clone each one of them individually, but when using this repository, all the files will be in the place expected by the tools to build and run in a virtualized environment.
 
-BSD 3-Clause License
+To locally clone this repository, use, in your repository of interest:
 
-Copyright (c) 2015-2023, Felipe Miguel Nery Lunkes <br>
-All rights reserved.
+```
+git clone https://github.com/hexagonix/src Hexagonix/
+hexagonix cd
+git submodule init
+git submodule update
+cd scripts
+cp hx configure.sh ../
+cd ..
+chmod +x hx configure.sh
+```
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+Afterwards, use the `hx` tool to build and run the system. For more information on using hx, use:
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+```
+./hx -h
+```
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+To keep the repository up to date with the latest updates, use:
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+```
+git submodule update --remote
+```
 
 </div>
 
-</details>
+# :brazil: Instruções para clonar este diretório para seu dispositivo
 
-<details title="Repositórios principais/main repositories" align='left'>
-<br>
-<summary align='left'>📦 Repositórios principais/main repositories</summary>
+<div align="justify">
 
-[![Hexagon Kernel](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=Hexagon&theme=dark)](https://github.com/hexagonix/Hexagon)
-[![HBoot](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=HBoot&theme=dark)](https://github.com/hexagonix/Hboot)
-[![Unix-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=unix-apps&theme=dark)](https://github.com/hexagonix/unix-apps)
-[![Andromeda-Apps](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=andromeda-apps&theme=dark)](https://github.com/hexagonix/andromeda-apps)
-[![lib](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=lib&theme=dark)](https://github.com/hexagonix/lib)
-[![fasmX](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=fasmx&theme=dark)](https://github.com/hexagonix/fasmx)
-[![hexagonix](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=hexagonix&theme=dark)](https://github.com/hexagonix/hexagonix)
-[![build](https://github-readme-stats.vercel.app/api/pin/?username=Hexagonix&repo=build&theme=dark)](https://github.com/hexagonix/build)
+Este repositório agrupa em uma única estrutura todos repositórios de componentes necessários para a construção do Hexagonix localmente. Você pode clonar cada um deles individualmente, mas ao utilizar este repositório, todos os arquivos estarão no lugar esperado pelas ferramentas de construção e execução em ambiente virtualizado.
 
-</details>
+Para clonar localmente este repositório, use, em seu repositório de interesse:
 
-<!-- Versão do arquivo: 1.0
+```
+git clone https://github.com/hexagonix/src Hexagonix/
+cd Hexagonix
+git submodule init
+git submodule update
+cd Scripts
+cp hx configure.sh ../
+cd ..
+chmod +x hx configure.sh
+```
 
-Copyright © 2023 Felipe Miguel Nery Lunkes
+Após, utilize a ferramenta `hx` para construir e executar o sistema. Para mais informações sobre o uso do hx, utilize:
 
--->
+```
+./hx -h
+```
+
+Para manter o repositório atualizado com as atualizações mais recentes, use:
+
+```
+git submodule update --remote
+```
+
+</div>
