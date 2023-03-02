@@ -45,7 +45,7 @@ chmod +x hx configure.sh
 ```
 git clone https://github.com/hexagonix/build
 cd build
-chmod+x hexagonix.sh
+chmod +x hexagonix.sh
 ./hexagonix.sh
 ```
 
@@ -103,7 +103,7 @@ chmod +x hx configure.sh
 ```
 git clone https://github.com/hexagonix/build
 cd build
-chmod+x hexagonix.sh
+chmod +x hexagonix.sh
 ./hexagonix.sh
 ```
 
