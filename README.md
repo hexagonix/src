@@ -21,7 +21,7 @@
 
 <!-- Vai funcionar como <hr> -->
 
-# :uk: Instructions for cloning this directory to your device
+## :uk: Instructions for cloning this repository
 
 <div align="justify">
 
@@ -54,7 +54,7 @@ git submodule update --remote
 
 </div>
 
-# :brazil: Instruções para clonar este diretório para seu dispositivo
+## :brazil: Instruções para clonar este repositório
 
 <div align="justify">
 
