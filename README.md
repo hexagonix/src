@@ -44,10 +44,10 @@
 
 <table align="center">
 <tr>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md">About Hexagonix</a></td>
 <td><a href="https://github.com/hexagonix/Doc">Documentation</a></td>
 <td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md#-screenshots">Screenshots</a></td>
-<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md#contribuir-e-reportar-erros">Contribute</a></td>
-<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md#contribute-and-report-bugs">More information</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md#contribute-and-report-bugs">Contribute</a></td>
 <td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md">Download</a></td>
 </tr>
 </table>
@@ -100,8 +100,8 @@ hx -v
 To keep the repository up to date with the latest updates, use:
 
 ```
-git submodule update --remote
 git pull
+git submodule update --remote
 ```
 
 </div>
@@ -114,10 +114,10 @@ git pull
 
 <table align="center">
 <tr>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md">Sobre o hexagonix</a></td>
 <td><a href="https://github.com/hexagonix/Doc">Documentação</a></td>
 <td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md#-capturas-de-tela">Screenshots</a></td>
 <td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md#contribuir-e-reportar-erros">Contribuir</a></td>
-<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md#outras-informa%C3%A7%C3%B5es">Outras informações</a></td>
 <td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md">Download</a></td>
 </tr>
 </table>
@@ -170,8 +170,8 @@ hx -v
 Para manter o repositório atualizado com as atualizações mais recentes, use:
 
 ```
-git submodule update --remote
 git pull
+git submodule update --remote
 ```
 
 </div>
