@@ -96,8 +96,7 @@ hx -v
 To keep the repository up to date with the latest updates, use:
 
 ```
-git pull
-git submodule update --remote
+./sync.sh
 ```
 
 </div>
