@@ -22,9 +22,9 @@
 [submodule "Doc"]
 	path = Doc
 	url = https://github.com/hexagonix/Doc
-[submodule "Externos/fasmX"]
-	path = Externos/fasmX
-	url = https://github.com/hexagonix/fasmx
+[submodule "Contrib/fasmX"]
+	path = Contrib/fasmX
+	url = https://github.com/hexagonix/fasmX
 [submodule "Fontes"]
 	path = Fontes
 	url = https://github.com/hexagonix/xfnt
