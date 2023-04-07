@@ -61,7 +61,7 @@ To locally clone this repository, use, in your repository of interest:
 ```
 git clone https://github.com/hexagonix/src Hexagonix/
 cd Hexagonix
-chmod +x
+chmod +x sync.sh
 ./sync.sh
 ```
 
@@ -126,7 +126,7 @@ Para clonar localmente este repositório, use, em seu repositório de interesse:
 ```
 git clone https://github.com/hexagonix/src Hexagonix/
 cd Hexagonix
-chmod +x
+chmod +x sync.sh
 ./sync.sh
 ```
 
