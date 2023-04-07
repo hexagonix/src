@@ -96,7 +96,8 @@ hx -v
 To keep the repository up to date with the latest updates, use:
 
 ```
-./sync.sh
+git pull
+git submodule update --remote
 ```
 
 </div>
@@ -148,7 +149,8 @@ Após a clonagem (de forma direta ou utilizando o script `hexagonix.sh`), utiliz
 Para construir o Hexagonix, use:
 
 ```
-./sync.sh
+sudo ./configure.sh
+sudo hx -i
 ```
 
 Para executar o Hexagonix em ambiente virtualizado, use:
@@ -160,8 +162,7 @@ hx -v
 Para manter o repositório atualizado com as atualizações mais recentes, use:
 
 ```
-git pull
-git submodule update --remote
+./sync.sh
 ```
 
 </div>
