@@ -71,7 +71,7 @@
 # Versão 1.0.0
 
 git submodule init
-git submodule update
+git submodule update --remote
 cd Scripts
 cp hx configure.sh ../
 cp Contrib.sh ../Contrib
