@@ -24,7 +24,7 @@
 	url = https://github.com/hexagonix/Doc
 [submodule "Contrib/fasmX"]
 	path = Contrib/fasmX
-	url = https://github.com/hexagonix/fasmX
+	url = https://github.com/hexagonix/fasmx
 [submodule "Fontes"]
 	path = Fontes
 	url = https://github.com/hexagonix/xfnt
