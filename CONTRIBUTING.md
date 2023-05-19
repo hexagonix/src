@@ -25,7 +25,11 @@
 
 <div align="justify">
 
-## English
+<div align="center">
+
+## :uk: English
+
+</div>
 
 <table align="center">
 <tr>
@@ -85,7 +89,11 @@ Also, add the name and email in the [authors](AUTHORS) file.
 
 <img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
 
-## Português (Brasil)
+<div align="center">
+
+## :brazil: Português (Brasil)
+
+</div>
 
 <table align="center">
 <tr>
