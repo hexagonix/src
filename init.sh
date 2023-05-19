@@ -68,7 +68,7 @@
 #
 # $HexagonixOS$
 
-# Versão 2.0.0
+# Versão 2.0.1
 
 clear
 echo -e ";;****************************************************************************"
@@ -95,3 +95,5 @@ cp Contrib.sh ../Contrib
 cd ..
 echo "> Configuring the build tools..."
 chmod +x hx configure.sh Contrib/Contrib.sh
+echo "> Deleting init.sh..."
+rm init.sh
