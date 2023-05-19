@@ -42,6 +42,8 @@ Copyright (c) 2023 Author
 All rights reserved.
 ```
 
+Also, add the name and email in the [authors](AUTHORS) file.
+
 <hr>
 
 ## Português (Brasil)
@@ -87,3 +89,5 @@ No cabeçalho do arquivo, deve conter o nome do autor, com copyright, como abaix
 Copyright (c) 2023 Autor
 Todos os direitos reservados.
 ```
+
+Além disso, adicione o nome e email no arquivo de [autores](AUTHORS).
