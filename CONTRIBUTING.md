@@ -32,7 +32,7 @@ db "vd0", 0 ;; Contents of gapp.vd0
 
 ;; Numeric variables and constants must be declared on the same line, as below:
 
-.day: dd 5 ;; Declaring a numerical variable (gapp.dia) in the same line.
+.day: dd 5 ;; Declaring a numerical variable (gapp.dya) in the same line.
 ```
 
 In the header of the file, it must contain the author's name, with copyright, as below:
