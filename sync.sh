@@ -68,7 +68,7 @@
 #
 # $HexagonixOS$
 
-# Versão 1.0.0
+# Versão 2.0.0
 
 clear
 echo -e ";;****************************************************************************"
@@ -85,14 +85,21 @@ echo -e ";;              └──┘                                           
 echo -e ";;                                                                            "
 echo -e ";;****************************************************************************"
 echo
-echo -e "\e[1;32mMake sure you have initialized the repositories first using sync.sh.\e[0m"
-echo
-echo "Press ENTER to continue and CTRL-C to initialize the repositories"
-echo "(should only be done once, on first use)."
-read init
-echo -e "\e[1;32m[Ok]\e[0m"
-echo
+if [ ! -e init.sh ] ; then
+
 echo -e "\e[1;32mUpdating git modules with server...\e[0m"
 echo
 git pull
 git submodule update --remote
+exit 
+
+fi	
+
+if [ -e init.sh ] ; then
+
+echo -e "\e[1;32mMake sure you have initialized the repositories first using sync.sh.\e[0m"
+echo
+echo "Run init.sh to initialize the repositories (git modules)."
+echo
+
+fi
