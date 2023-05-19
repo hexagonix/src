@@ -70,10 +70,29 @@
 
 # Versão 1.0.0
 
-git submodule init
+clear
+echo -e ";;****************************************************************************"
+echo -e ";;                                                                            "
+echo -e ";;                                                                            "
+echo -e ";; ┌┐ ┌┐                              \e[1;94mHexagonix® Operating System\e[0m          "
+echo -e ";; ││ ││                                                                      "
+echo -e ";; │└─┘├──┬┐┌┬──┬──┬──┬─┐┌┬┐┌┐ \e[1;94mCopyright © 2015-2023 Felipe Miguel Nery Lunkes\e[0m"
+echo -e ";; │┌─┐││─┼┼┼┤┌┐│┌┐│┌┐│┌┐┼┼┼┼┘             \e[1;94mAll rights reserved.\e[0m             "
+echo -e ";; ││ │││─┼┼┼┤┌┐│└┘│└┘││││├┼┼┐                                                "
+echo -e ";; └┘ └┴──┴┘└┴┘└┴─┐├──┴┘└┴┴┘└┘                                                "
+echo -e ";;              ┌─┘│                     \e[1;32mUpdate build environment\e[0m        "
+echo -e ";;              └──┘                                                          "
+echo -e ";;                                                                            "
+echo -e ";;****************************************************************************"
+echo
+echo -e "\e[1;32mMake sure you have initialized the repositories first using sync.sh.\e[0m"
+echo
+echo "Press ENTER to continue and CTRL-C to initialize the repositories"
+echo "(should only be done once, on first use)."
+read init
+echo -e "\e[1;32m[Ok]\e[0m"
+echo
+echo -e "\e[1;32mUpdating git modules with server...\e[0m"
+echo
+git pull
 git submodule update --remote
-cd Scripts
-cp hx configure.sh ../
-cp Contrib.sh ../Contrib
-cd ..
-chmod +x hx configure.sh Contrib/Contrib.sh
