@@ -1,4 +1,41 @@
+
+<!-- Vamos adicionar o logotipo do sistema -->
+
+<p align="center">
+<img align="center" src="https://github.com/hexagonix/Doc/blob/main/Img/banner.png">
+</p>
+
+<div align="center">
+
+![](https://img.shields.io/github/license/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/stars/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/issues/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/issues-closed/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/issues-pr/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/issues-pr-closed/hexagonix/hexagonix.svg)
+![](https://img.shields.io/github/downloads/hexagonix/hexagonix/total.svg)
+![](https://img.shields.io/github/release/hexagonix/hexagonix.svg)
+[![](https://img.shields.io/twitter/follow/hexagonixOS.svg?style=social&label=Follow%20%40HexagonixOS)](https://twitter.com/hexagonixOS)
+
+</div>
+
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
+
+<div align="justify">
+
 ## English
+
+<table align="center">
+<tr>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md">About Hexagonix</a></td>
+<td><a href="https://github.com/hexagonix/Doc">Documentation</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md#-screenshots">Screenshots</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.en.md#contribute-and-report-bugs">Contribute</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md">Download</a></td>
+</tr>
+</table>
 
 Anyone can contribute to Hexagonix, and contributions are welcome and encouraged. As an open source project, the community has the power to improve Hexagonix, in addition to using the code already developed as a basis for other projects, as long as the [software license](LICENSE) is respected.
 
@@ -44,9 +81,21 @@ All rights reserved.
 
 Also, add the name and email in the [authors](AUTHORS) file.
 
-<hr>
+<!-- Vai funcionar como <hr> -->
+
+<img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
 
 ## Português (Brasil)
+
+<table align="center">
+<tr>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md">Sobre o Hexagonix</a></td>
+<td><a href="https://github.com/hexagonix/Doc">Documentação</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md#-capturas-de-tela">Screenshots</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/Hexagonix.pt.md#contribuir-e-reportar-erros">Contribuir</a></td>
+<td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md">Download</a></td>
+</tr>
+</table>
 
 Qualquer pessoa pode contribuir com o Hexagonix, e essas contribuições são desejadas e incentivadas. Como projeto de código aberto, a comunidade tem o poder de melhorar o Hexagonix, além de utilizar o código já desenvolvido como base de outros projetos, desde que respeitada a [licença de software](LICENSE).
 
@@ -91,3 +140,5 @@ Todos os direitos reservados.
 ```
 
 Além disso, adicione o nome e email no arquivo de [autores](AUTHORS).
+
+</div>
