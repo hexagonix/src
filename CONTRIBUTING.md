@@ -10,7 +10,7 @@ Anyone can contribute to Hexagonix, and contributions are welcome and encouraged
 
 You can submit code for any Hexagonix component, using the supported development languages ​​for each component.
 
-> For code in x86 assembly:
+> For code in x86 Assembly:
 
 Code submitted in x86 Assembly must follow formatting standards to facilitate organization, readability and uniformity with the current code base of the system. Here is a commented code example:
 
