@@ -23,8 +23,6 @@
 
 <img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
 
-<div align="justify">
-
 <div align="center">
 
 ## :uk: English
@@ -40,6 +38,8 @@
 <td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md">Download</a></td>
 </tr>
 </table>
+
+<div align="justify">
 
 Anyone can contribute to Hexagonix, and contributions are welcome and encouraged. As an open source project, the community has the power to improve Hexagonix, in addition to using the code already developed as a basis for other projects, as long as the [software license](LICENSE) is respected.
 
@@ -85,6 +85,8 @@ All rights reserved.
 
 Also, add the name and email in the [authors](AUTHORS) file.
 
+</div>
+
 <!-- Vai funcionar como <hr> -->
 
 <img src="https://github.com/hexagonix/Doc/blob/main/Img/hr.png" width="100%" height="2px" />
@@ -104,6 +106,8 @@ Also, add the name and email in the [authors](AUTHORS) file.
 <td><a href="https://github.com/hexagonix/Doc/blob/main/Hexagonix/README.pt.md">Download</a></td>
 </tr>
 </table>
+
+<div align="justify">
 
 Qualquer pessoa pode contribuir com o Hexagonix, e essas contribuições são desejadas e incentivadas. Como projeto de código aberto, a comunidade tem o poder de melhorar o Hexagonix, além de utilizar o código já desenvolvido como base de outros projetos, desde que respeitada a [licença de software](LICENSE).
 
