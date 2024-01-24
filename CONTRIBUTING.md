@@ -79,7 +79,7 @@ db "vd0", 0 ;; Contents of gapp.vd0
 In the header of the file, it must contain the author's name, with copyright, as below:
 
 ```
-Copyright (c) 2023 Author
+Copyright (c) 2024 Author
 All rights reserved.
 ```
 
@@ -147,7 +147,7 @@ db "vd0", 0 ;; Conteúdo de gapp.vd0
 No cabeçalho do arquivo, deve conter o nome do autor, com copyright, como abaixo:
 
 ```
-Copyright (c) 2023 Autor
+Copyright (c) 2024 Autor
 Todos os direitos reservados.
 ```
 
