@@ -10,9 +10,6 @@
 [submodule "Boot/Saturno"]
 	path = Boot/Saturno
 	url = https://github.com/hexagonix/Saturno
-[submodule "Boot/Hexagon Boot"]
-	path = Boot/Hexagon Boot
-	url = https://github.com/hexagonix/HBoot
 [submodule "Scripts"]
 	path = Scripts
 	url = https://github.com/hexagonix/scriptsHX
@@ -37,3 +34,6 @@
 [submodule "hexagonix"]
 	path = hexagonix
 	url = https://github.com/hexagonix/hexagonix
+[submodule "Boot/HBoot"]
+	path = Boot/HBoot
+	url = https://github.com/hexagonix/HBoot
