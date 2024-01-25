@@ -25,8 +25,8 @@
 [submodule "Contrib/fasmX"]
 	path = Contrib/fasmX
 	url = https://github.com/hexagonix/fasmx
-[submodule "Fontes"]
-	path = Fontes
+[submodule "Fonts"]
+	path = Fonts
 	url = https://github.com/hexagonix/xfnt
 [submodule "Dist/etc"]
 	path = Dist/etc
